@@ -1,0 +1,16 @@
+{
+  "name": "mychatroom",
+  "version": "1.0.0",
+  "description": "A chatroom which base on node.js, angular.js and socket.io",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Jeremy",
+  "license": "ISC",
+
+  "dependencies": {
+  	"express": "*",
+  	"socket.io": "*"
+  }
+}
